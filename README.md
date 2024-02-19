@@ -1,0 +1,2 @@
+# PythonRepo2
+alıştırma
